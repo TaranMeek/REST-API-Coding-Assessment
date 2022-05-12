@@ -1,0 +1,1 @@
+To run the application, open the project in Intellij, navigate to the file src/main/java/com/example/CodingAssessment/CodingAssessmentApplication.java. Then click on the green play button next to the main method.
